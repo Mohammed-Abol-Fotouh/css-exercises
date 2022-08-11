@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffa7a7;
+    font-family: 'DejaVu Sans', Verdana, sans-serif;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.p3 {
+    font-size: 24px;
+}
+
+#div2 {
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight:  bold;
+}
